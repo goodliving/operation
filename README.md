@@ -14,7 +14,7 @@
 * ceph
 * ldap
 * rocket.chat
-* FLK、
+* FLK
 * mocha
 
 ### 业务场景
