@@ -13,6 +13,9 @@
 * robotframework
 * ceph
 * ldap
+* rocket.chat
+* FLK、
+* mocha
 
 ### 业务场景
 
@@ -24,4 +27,4 @@
 
 ### 具体功能
 
-kubernets是整个系统的基础架构，`coredns`提供域名服务，`flannel`提供路由规则，`traefic`提供负载均衡和外部服务，`drone`提供持续集成能力，`harbor`提供镜像仓库以及镜像安全扫描，`ceph`提供外部存储，`ldap`提供权限认证，`robotframework`编写自动化用例，包括web、app、接口等。
+kubernets是整个系统的基础架构，`coredns`提供域名服务，`flannel`提供路由规则，`traefic`提供负载均衡和外部服务，`drone`提供持续集成能力，`harbor`提供镜像仓库以及镜像安全扫描，`ceph`提供外部存储，`ldap`提供权限认证，`robotframework`编写接口自动化用例，`mocha`编写web段自动化用例，`rocket.chat`提供团队交流功能，`FLK`提供线上业务运维。
