@@ -20,7 +20,7 @@
 * avajs
 * nmap
 * scapy
-* babun
+* anyproxy
 
 ### 业务场景
 
@@ -32,4 +32,4 @@
 
 ### 具体功能
 
-kubernets是整个系统的基础架构，`coredns`提供域名服务，`flannel`提供路由规则，`traefic`提供负载均衡和外部服务以及网关的功能，`drone`提供持续集成能力，`harbor`提供镜像仓库以及镜像安全扫描，`ceph`提供外部存储，`ldap`提供权限认证，`robotframework`编写接口自动化用例，`mocha`编写web段自动化用例，`rocket.chat`提供团队交流功能，`FLK`提供线上业务运维、`locust`压力负载测试工具，`avajs`自动化测试工具，`nmap`网络扫描渗透工具，`scapy`网络审计工具，`babun`windows下Linux环境工具。
+kubernets是整个系统的基础架构，`coredns`提供域名服务，`flannel`提供路由规则，`traefic`提供负载均衡和外部服务以及网关的功能，`drone`提供持续集成能力，`harbor`提供镜像仓库以及镜像安全扫描，`ceph`提供外部存储，`ldap`提供权限认证，`robotframework`编写接口自动化用例，`mocha`编写web段自动化用例，`rocket.chat`提供团队交流功能，`FLK`提供线上业务运维、`locust`压力负载测试工具，`avajs`自动化测试工具，`nmap`网络扫描渗透工具，`scapy`网络审计工具，`anyproxy`网络代理工具。
